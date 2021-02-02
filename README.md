@@ -1,1 +1,1 @@
-### Códigos em PHP e Python escritos seguindo o paradigma da programação orientada a objetos
+### Códigos em PHP e Python escritos seguindo o paradigma da programação orientada a objeto, com base no curso "Orientação a objetos, exceções e banco de dados em PHP", oferecido pela plataforma de ensino Digital Innovation One, e também em tutoriais de estudo pela internet.
